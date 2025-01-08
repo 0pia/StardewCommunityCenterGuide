@@ -1,0 +1,50 @@
+Apple;0;0;1;0;Fruit;28;Pierre;26
+Apricot;1;0;0;0;Fruit;28;Pierre;12
+Blackberry;0;0;1;0;Fruit;;Foraging;3
+Blueberry;0;1;0;0;Fruit;13;Pierre;8
+Cactus Fruit;1;1;1;1;Fruit;12;Foraging;5
+Cauliflower;1;0;0;0;Vegetable;12;Pierre;7
+Cave Carrot;1;1;1;1;Forage;;Foraging;5
+Cherry;1;0;0;0;Fruit;28;Pierre;12
+Coconut;1;1;1;1;Fruit;;Foraging;5
+Common Mushroom;0;0;1;0;Forage;;Foraging;3
+Corn;0;1;1;0;Vegetable;14;Pierre;9
+Crocus;0;0;0;1;Flower;;Foraging;4
+Crystal fruit;0;0;0;1;Forage;;Foraging;4
+Daffodil;1;0;0;0;Forage;;Foraging;1
+Dandelion;1;0;0;0;Forage;;Foraging;1
+Eggplant;0;0;1;0;Vegetable;5;Pierre;9
+Fern;0;1;0;0;Forage;;Foraging;22
+Gold Corn;0;1;1;0;Vegetable;14;Pierre;10
+Gold Melon;0;1;0;0;Fruit;12;Pierre;10
+Gold Parsnip;1;0;0;0;Vegetable;4;Pierre;10
+Gold Pumpkin;0;0;1;0;Vegetable;13;Pierre;10
+Grape;0;1;1;0;Fruit;10;Foraging/Pierre;2
+Green Bean;1;0;0;0;Vegetable;10;Pierre;7
+Hay;1;1;1;1;Forage;;Grass;26
+Hazelnut;0;0;1;0;Forage;;Foraging;3
+Hot Pepper;0;1;0;0;Vegetable;5;Pierre;8
+Leek;1;0;0;0;Forage;;Foraging;1
+Melon;0;1;0;0;Fruit;12;Pierre;8
+Morel;1;0;0;0;Forage;;Foraging;5
+Orange;0;1;0;0;Fruit;28;Pierre;12
+Parsnip;1;0;0;0;Vegetable;4;Pierre;7
+Peach;0;1;0;0;Fruit;28;Pierre;12
+Pomegranate;0;0;1;0;Fruit;28;Pierre;25
+Poppy;0;1;0;0;Flower;7;Pierre;22
+Potato;1;0;0;0;Vegetable;6;Pierre;7
+Pumpkin;0;0;1;0;Vegetable;13;Pierre;9
+Purple Mushroom;1;1;1;1;Forage;;Foraging;24
+Red Cabbage;0;1;0;0;Vegetable;9;Pierre;23
+Red Mushroom;1;1;1;1;Forage;;Foraging;23
+Sea Urchin;1;1;1;1;Forage;;Beach;23
+Snow Yam;0;0;0;1;Forage;;Foraging;4
+Spice Berry;0;1;0;0;Fruit;;Foraging;2
+Sunflower;0;1;0;0;Flower;8;Pierre;23
+Sweet Pea;0;1;0;0;Flower;;Foraging;2
+Tomato;0;1;0;0;Vegetable;11;Pierre;8
+Wheat;0;1;1;0;Vegetable;4;Pierre;26
+Wild Horseradish;1;0;0;0;Forage;;Foraging;1
+Wild Plum;0;0;1;0;Fruit;;Foraging;3
+Winter Root;0;0;0;1;Forage;;Foraging;4
+Yam;0;0;1;0;Vegetable;10;Pierre;9

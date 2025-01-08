@@ -1,0 +1,11 @@
+TODOs:
+	- //store field size (?)
+	- //upload save to DB
+	- //Filter()
+	- everything basically lol
+	- season selector checkbox function
+	- //table selection menu instead of input
+	- //GenericSelectionMenu(string[] items)
+	- GenericCheckboxMenu(string[] items)
+	- //handle filter case with no criteria
+	- RequestInput(Field field)

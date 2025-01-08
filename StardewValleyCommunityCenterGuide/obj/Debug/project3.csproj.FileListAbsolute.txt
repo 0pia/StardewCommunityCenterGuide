@@ -1,0 +1,44 @@
+C:\Users\3041TAN-05\Desktop\tokodi\help\cs\project3\bin\Debug\project3.exe.config
+C:\Users\3041TAN-05\Desktop\tokodi\help\cs\project3\bin\Debug\project3.exe
+C:\Users\3041TAN-05\Desktop\tokodi\help\cs\project3\bin\Debug\project3.pdb
+C:\Users\3041TAN-05\Desktop\tokodi\help\cs\project3\bin\Debug\MySql.Data.dll
+C:\Users\3041TAN-05\Desktop\tokodi\help\cs\project3\bin\Debug\MySql.Data.xml
+C:\Users\3041TAN-05\Desktop\tokodi\help\cs\project3\obj\Debug\project3.csprojAssemblyReference.cache
+C:\Users\3041TAN-05\Desktop\tokodi\help\cs\project3\obj\Debug\project3.csproj.CopyComplete
+C:\Users\3041TAN-05\Desktop\tokodi\help\cs\project3\obj\Debug\project3.exe
+C:\Users\3041TAN-05\Desktop\tokodi\help\cs\project3\obj\Debug\project3.pdb
+D:\Tábor Tünde 11.P\sry\project3\bin\Debug\project3.exe.config
+D:\Tábor Tünde 11.P\sry\project3\bin\Debug\project3.exe
+D:\Tábor Tünde 11.P\sry\project3\bin\Debug\project3.pdb
+D:\Tábor Tünde 11.P\sry\project3\obj\Debug\project3.csprojAssemblyReference.cache
+D:\Tábor Tünde 11.P\sry\project3\obj\Debug\project3.exe
+D:\Tábor Tünde 11.P\sry\project3\obj\Debug\project3.pdb
+C:\Users\morgan\school\project3\bin\Debug\project3.exe.config
+C:\Users\morgan\school\project3\bin\Debug\project3.exe
+C:\Users\morgan\school\project3\bin\Debug\project3.pdb
+C:\Users\morgan\school\project3\bin\Debug\MySql.Data.xml
+C:\Users\morgan\school\project3\obj\Debug\project3.csproj.AssemblyReference.cache
+C:\Users\morgan\school\project3\obj\Debug\project3.csproj.SuggestedBindingRedirects.cache
+C:\Users\morgan\school\project3\obj\Debug\project3.csproj.CoreCompileInputs.cache
+C:\Users\morgan\school\project3\obj\Debug\project3.csproj.CopyComplete
+C:\Users\morgan\school\project3\obj\Debug\project3.exe
+C:\Users\morgan\school\project3\obj\Debug\project3.pdb
+C:\Users\Borka\Downloads\project3\bin\Debug\project3.exe.config
+C:\Users\Borka\Downloads\project3\bin\Debug\project3.exe
+C:\Users\Borka\Downloads\project3\bin\Debug\project3.pdb
+C:\Users\Borka\Downloads\project3\bin\Debug\MySql.Data.xml
+C:\Users\Borka\Downloads\project3\obj\Debug\project3.csproj.AssemblyReference.cache
+C:\Users\Borka\Downloads\project3\obj\Debug\project3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Borka\Downloads\project3\obj\Debug\project3.csproj.CoreCompileInputs.cache
+C:\Users\Borka\Downloads\project3\obj\Debug\project3.csproj.CopyComplete
+C:\Users\Borka\Downloads\project3\obj\Debug\project3.exe
+C:\Users\Borka\Downloads\project3\obj\Debug\project3.pdb
+C:\School\project3\bin\Debug\project3.exe.config
+C:\School\project3\bin\Debug\project3.exe
+C:\School\project3\bin\Debug\project3.pdb
+C:\School\project3\bin\Debug\MySql.Data.xml
+C:\School\project3\obj\Debug\project3.csproj.AssemblyReference.cache
+C:\School\project3\obj\Debug\project3.csproj.CoreCompileInputs.cache
+C:\School\project3\obj\Debug\project3.csproj.Up2Date
+C:\School\project3\obj\Debug\project3.exe
+C:\School\project3\obj\Debug\project3.pdb

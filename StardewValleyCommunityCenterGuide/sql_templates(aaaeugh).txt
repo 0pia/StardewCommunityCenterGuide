@@ -1,0 +1,72 @@
+ÚJ ELEM:: 
+
+Bundle:
+INSERT INTO bundles (Name, Reward, Needs, Max)
+VALUES
+('','',,);
+
+Plant: 
+INSERT INTO plant (name, spring,summer,fall,winter,category,toGrow,toFind)
+VALUES 
+('neve',,,,,'',,'');
+UPDATE plant
+SET BundleID=(SELECT BundleID from bundles WHERE Name='bundleneve')
+WHERE name='neve';
+
+Fish: 
+INSERT INTO fish(name, spring, summer, fall, winter, place, weather, time)
+VALUES
+('neve',,,,,'','','');
+UPDATE fish
+SET BundleID=(SELECT BundleID from bundles WHERE Name='bundleneve')
+WHERE name='neve';
+
+Item:
+INSERT INTO items(name, category, preItem, getFrom)
+VALUES
+('neve','','','')
+UPDATE items
+SET BundleID=(SELECT BundleID from bundles WHERE Name='bundleneve')
+WHERE name='neve';
+
+SZŰRÉS:
+
+Bundle:
+SELECT * FROM bundles
+WHERE ...
+
+Plant:
+SELECT * FROM plant
+WHERE ...
+
+Item: 
+SELECT * FROM items
+WHERE ...
+
+Fish:
+SELECT * FROM fish
+WHERE ...
+
+FRISSITES:
+UPDATE tabla(bundles nem lehet)
+SET has=
+WHERE name='neve'
+
+TÖRLÉS:
+
+Bundle:
+SELECT BundleID FROM bundles WHERE name='neve';//itt valahol mentsd el az id-t pls (idtorolt) 
+DELETE FROM bundles
+WHERE name='neve'; //most csak peldanak van a neve
+DELETE FROM fish
+WHERE BundleID=idtorolt;
+DELETE FROM plant
+WHERE BundleID=idtorolt;
+DELETE FROM items
+WHERE BundleID=idtorolt;
+
+Plant/fish/items:
+DELETE FROM tablaneve WHERE...
+
+STATISZTIKA:
+

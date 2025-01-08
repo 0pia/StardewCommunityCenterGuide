@@ -1,0 +1,29 @@
+Bream;1;1;1;1;River;any;6pm-2am;14
+Bullhead;1;1;1;1;Mountain Lake;any;any;15
+Carp;1;1;1;1;Mountain Lake/Secret Woods;any;any;15
+Catfish;1;1;1;0;River/Secret Woods;rainy;6am-midnight;13
+Clam;1;1;1;1;Ocean;any;any;18
+Cockle;1;1;1;1;Ocean;any;any;18
+Crab;1;1;1;1;Ocean;any;any;18
+Crayfish;1;1;1;1;River/Lake;any;any;18
+Eel;1;0;1;0;Ocean;rainy;4pm-2am;14
+Ghostfish;1;1;1;1;The Mines (20-60);any;any;17
+Largemouth Bass;1;1;1;1;Mountain Lake;any;6am-7pm;15
+Lobster;1;1;1;1;Ocean;any;any;18
+Mussle;1;1;1;1;Ocean;any;any;18
+Oyster;1;1;1;1;Ocean;any;any;18
+Periwinkle;1;1;1;1;River/Lake;any;any;18
+Pufferfish;0;1;0;0;Ocean;sunny;12pm-4pm;17
+Red Snapper;0;1;1;0;Ocean;rainy;6am-7pm;16
+Sandfish;1;1;1;1;The Desert;any;6am-8pm;17
+Sardine;1;0;1;1;Ocean;any;6am-7pm;16
+Shad;1;1;1;0;River;rainy;9am-2am;13
+Shrimp;1;1;1;1;Ocean;any;any;18
+Snail;1;1;1;1;River/Lake;any;any;18
+Sturgeon;0;1;0;1;Mountain Lake;any;any;15
+Sunfish;1;1;0;0;River;sunny;6am-7pm;13
+Tiger Trout;0;0;1;1;River;any;6am-7pm;13
+Tilapia;0;1;1;0;Ocean;any;6am-2pm;16
+Tuna;0;1;0;1;Ocean;any;6am-7pm;16
+Walleye;0;0;1;0;River/Mountain Lake/Cindersap Forest Pond;rainy;12pm-2am;14
+Woodskip;1;1;1;1;Secret Woods;any;any;17
